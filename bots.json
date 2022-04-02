@@ -1,7 +1,7 @@
 [
     {
-        "name": "Bot vinted",
-        "token": "process.env.TOKEN",
-        "adminIDs": "268752955887321088"
+        "name": "Vinted Premium bot",
+        "token": "OTU5NzcxMDcwMDgzMjM5OTc3.Ykgudg.Ug3u8uVuPRRAHElAL7IjXOrekNM",
+        "adminIDs": ""
     }
 ]
